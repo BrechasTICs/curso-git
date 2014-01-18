@@ -1,5 +1,5 @@
 curso-git
 =========
 Estas en Branch-1
-asasa
+LOL
 Curso base de Git y Github para BrechasTICs
