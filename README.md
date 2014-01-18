@@ -1,10 +1,7 @@
-curso-git
-=========
-MASTER
-
 Cuanto demora? hora de subida: 17:06
 GIT NO SIRVEEEE
 
+<<<<<<< HEAD
 
            .
              |~
@@ -39,6 +36,9 @@ GIT NO SIRVEEEE
 
 
 
+=======
+Funca!
+>>>>>>> d6a9decf1721d63cef1217936574c466989a4c2d
 
 NUNCA  VA  A  SERVIR
 Git no sirve
