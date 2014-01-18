@@ -1,6 +1,6 @@
 Cuanto demora? hora de subida: 17:06
 <<<<<<< HEAD
-wtf!
+wtf
 Curso base de Git y Github para BrechasTICs
 =======
 GIT NO SIRVEEEE
