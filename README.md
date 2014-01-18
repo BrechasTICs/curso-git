@@ -1,4 +1,7 @@
 curso-git
-=========*
-Rokier
+
+
+GIT sí sirve
+
+Primera sesion
 Curso base de Git y Github para BrechasTICs
