@@ -1,5 +1,6 @@
 curso-git
 =========
-MASTER
-commit
+
+Estas en Branch-1
+
 Curso base de Git y Github para BrechasTICs
