@@ -2,10 +2,17 @@
 curso-git
 
 
+
 GIT sí sirve
 
 Primera sesion
 Curso base de Git y Github para BrechasTICs
+
+Linda
+Jme
+
+Estas en Branch-1
+>>>>>>> 35187c3b5da0557bad3a2d4302208cd29e25cc20
 Cuanto demora? hora de subida: 17:06
 wtf
 Curso base de Git y Github para BrechasTICs
@@ -50,6 +57,7 @@ GIT NO SIRVEEEE
 			 
 			 
 			 
+
 
 
 
