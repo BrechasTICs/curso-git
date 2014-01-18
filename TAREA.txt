@@ -1,0 +1,4 @@
+GIT FETCH <REMOTE>
+GIT PULL <REMOTE> <BRANCH>
+GIT PUSH <REMOTE> <BRANCH>
+Hagan lo que quieran
